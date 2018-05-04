@@ -1,10 +1,10 @@
 ## KChow's collection of hopefully useful information
 
 ### Introduction
-*Hi! My name is KChow and this is my website. In my personal life, I am a resident physician, but long before that I have always had a passion for workflows, systems,and  learning, and I want to have a way to share what I've learned with as many people as I can (likely people I know in real life). My goal for this website is to create a single location to share useful information that I have either found or content that I have created myself. I do not intend for this website to be a blog or updated frequently so please consider following me on twitter, reddit, or bookmarking this webpage (I will only be posting when new content is added). I hope to setup an email listserve at some point, but that's in the future. Hope the site helps!*
+Hi! My name is KChow and this is my website. In my personal life, I am a resident physician, but long before that I have always had a passion for workflows, systems, and learning. My goal for this website is to create a single location to share useful information that I have either found or  created and share this with as many people as I can (likely people I know in real life). **I do not intend for this website to be a blog or updated frequently so please consider signing up for my [email list here](https://goo.gl/forms/aLMXTU0EeDXHqc1w2).** I don't know how often I will update this website, but I promise you will not get flooded with emails. Hope the site helps!
 
 ### News
-- *May 4th 2018: This is the creation of the site!*
+- *May 4th 2018: Creation of the website*
 
 
 ### Fitness
